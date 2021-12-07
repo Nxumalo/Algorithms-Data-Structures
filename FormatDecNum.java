@@ -1,5 +1,5 @@
 
-public class FormatingDecimalNum {
+public class FormatDecNum {
 
 	public static void main(String[] args) {
 		double x = 12.674;
