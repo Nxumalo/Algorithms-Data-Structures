@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class AreaAndCircumferenceProgram {
+public class AreaCircum {
 	
 	public static final double PI=3.14;
 	
