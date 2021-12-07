@@ -12,8 +12,7 @@ public class SubstringMethod {
 		System.out.println("Line 5: "+sentence.substring(3,9));
 		
 		str1 = sentence.substring(0,8);
-		System.out.println("Line 7: str1 = \""+str1+"\"");
-		
+		System.out.println("Line 7: str1 = \""+str1+"\"");	
 		str2 = sentence.substring(2,12);
 		System.out.println("Line 9: str2 = \""+str2+"\"");
 	}
