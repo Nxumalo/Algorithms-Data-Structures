@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Example2_17 {
+public class Name {
 	
 	static Scanner console = new Scanner(System.in);
 	
