@@ -1,8 +1,7 @@
 
 public class VariousStringMethods {
 	
-	public static void main(String [] args) {
-		
+	public static void main(String [] args) {		
 		String sentence;
 		String str1;
 		String str2;
@@ -28,5 +27,4 @@ public class VariousStringMethods {
 		str3 = sentence.replace('t', 'T');
 		System.out.println("Line 14: str3 = \""+str3+"\"");
 	}
-
 }
