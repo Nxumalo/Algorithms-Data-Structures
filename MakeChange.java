@@ -35,5 +35,4 @@ public class MakeChange {
 		 change = change%NICKEL;
 		 System.out.println("The number of pennes to be returned is "+change);
 	}
-
 }
