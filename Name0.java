@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Example2_29 {
+public class Name0 {
 	static Scanner console = new Scanner(System.in);
 	
 	public static void main(String[] args) {
