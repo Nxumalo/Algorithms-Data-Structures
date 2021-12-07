@@ -29,7 +29,7 @@ public class EX02A extends Applet{
 	
 	public String getAppletInfo() {
 	return "Name: EX02\r\n"+
-		   "Author: Mike Cohn\r\n"+
+		   "Author: Fraser Nxumalo\r\n"+
 		   "Created with Microsoft Vissual J++ Version 1.0";
 	
 	}
